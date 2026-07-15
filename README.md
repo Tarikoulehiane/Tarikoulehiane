@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Tarik 👋
 
-<!--
-**Tarikoulehiane/Tarikoulehiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer based in Casablanca.
 
-Here are some ideas to get you started:
+I build simple and clean applications for web and mobile.  
+I enjoy learning new technologies and improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🌐 [Portfolio Website](https://tarikoulehiane-portfolio-liard.vercel.app)
+
+### 🛠️ Web
+- HTML / CSS
+- JavaScript
+- React
+- PHP
+
+### 📱 Mobile
+- Kotlin
+- Java
+- Flutter
+- Dart
+- Jetpack Compose
+
+### 🗄️ Databases
+- MySQL
+- Room Database
+
+### 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarikoulehiane/)
