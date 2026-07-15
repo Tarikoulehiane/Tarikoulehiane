@@ -22,8 +22,10 @@ I enjoy learning new technologies and improving my skills.
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/tarikoulehiane/)
